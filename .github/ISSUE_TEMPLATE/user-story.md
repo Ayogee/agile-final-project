@@ -3,15 +3,6 @@ name: User Story
 about: This template is for creating user stories
 title: ''
 labels: ''
-assignees: ''
-
----
-
----
-name: User Story
-about: This template is for creating user stories
-title: ''
-labels: ''
 assignees: Ayogee
 
 ---
